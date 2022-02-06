@@ -1,0 +1,19 @@
+body {
+        background: #CCCCCC ;
+        }
+        em strong {
+            color:red;
+        }        
+        p { text-align:  center };
+
+        #missao {
+            style="font-size: 20px;
+        }
+
+        }
+        ul {
+            display: inline-block;
+            vertical-align: top;
+            width: 20%;
+            margin-right: 15%;
+        }
