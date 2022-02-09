@@ -1,0 +1,16 @@
+body {
+    background: #BBBBBB;
+}
+
+.navegacao li {
+    display: inline;
+    margin: 0 0 0 16px;
+}
+
+.navegacao a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
